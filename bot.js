@@ -162,9 +162,9 @@ const client159 = new Discord.Client();
 const client160 = new Discord.Client();
 
 
-client.login("TOKEN")
-client2.login("")
-client3.login("")
+client.login("NzczMjg4MDg0MDQ1NDMwODA1.X6Jaaw.tveRl5Cky9licxkx5bs-fJihBHA")
+client2.login("NzczNDUyNDAxNzE2ODg3NjAy.X6Jb3A.RPV9-zhb4-lGW0y2e3ILeDtOHJo")
+client3.login("NzczNDUyODkxMjE3MzMwMTc2.X6JcdA.PX53ErRC-dkPqi_Nsx5BZpF4d1Q")
 client4.login("")
 client5.login("")
 client6.login("")
