@@ -1,29 +1,49 @@
+  
 {
-  "//1": "describes your app and its dependencies",
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
-  "name": "hello-express",
-  "version": "0.0.1",
-  "description": "A simple Node app built on Express, instantly up and running.",
+  "name": "mohamed",
+  "version": "2.1.0",
+  "description": "-- AWESOMENESS --",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
+    "discord.js": "11.4.2",
     "express": "^4.17.1",
-    "discord-giveaways": "^4.2.1",
-    "discord.js": "^12.4.0"
+    "ffmpeg": "^0.0.4",
+    "better-sqlite-pool": "^0.2.2",
+    "guild": "^1.2.2",
+    "delay": "^4.1.0",
+    "enmap": "^4.8.1",
+    "ffmpeg-binaries": "^4.0.0",
+    "figlet": "^1.2.1",
+    "file-system": "^2.2.2",
+    "forever": "^0.15.3",
+    "fortnite": "^4.3.2",
+    "node-emoji": "^1.10.0",
+    "message": "0.0.1",
+    "moment": "^2.24.0",
+    "ms": "^2.1.1",
+    "new": "0.1.1",
+    "node-opus": "^0.3.1",
+    "npm": "^6.5.0",
+    "opusscript": "0.0.6",
+    "path": "0.12.7",
+    "quick.db": "^6.3.2",
+    "replace": "^1.1.0",
+    "sqlite": "^3.0.3",
+    "sqlite3": "^4.0.6",
+    "stackos": "1.1.0",
+    "superagent": "4.1.0",
+    "table": "^5.2.2",
+    "until": "^0.1.1",
+    "ustat": "0.0.2",
+    "winston": "^3.2.1",
+    "ytdl-core": "^0.29.0",
+    "zalgolize": "^1.2.4",
+    "dblapi.js": "^2.4.1"
   },
   "engines": {
-    "node": "12.x"
-  },
-  "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
-  },
-  "license": "MIT",
-  "keywords": [
-    "node",
-    "glitch",
-    "express"
-  ]
+    "node": "8.x"
+  }
 }
