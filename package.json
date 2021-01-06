@@ -3,9 +3,9 @@
   "name": "mohamed",
   "version": "2.1.0",
   "description": "-- AWESOMENESS --",
-  "main": "Naqeb.js",
+  "main": "Panda.js",
   "scripts": {
-    "start": "node Naqeb.js"
+    "start": "node Panda.js"
   },
   "dependencies": {
     "discord.js": "11.4.2",
